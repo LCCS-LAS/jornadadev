@@ -1,12 +1,12 @@
 function Main()
     LOCAL cNome := "Luccas Leandro"
-    LOCAL cCidade := "S∆o Paulo"
+    LOCAL cCidade := "S√£o Paulo"
     LOCAl cCurso := "Harbour/ADVPL"
 
     hb_cdpSelect("PT850")
     
     QOut("===========================")
-    QOut("  FICHA DE APRESENTAÄ«O  ")
+    QOut("  FICHA DE APRESENTA√á√ÉO  ")
     QOut("===========================")
     QOut("Nome: " + cNome)
     QOut("Cidade: " + cCidade)
